@@ -82,7 +82,7 @@ inu_sayang_april.start()
 ##################
 ## LAMA DI SINI ANJING ##
 ##################
-time.sleep(15)
+time.sleep(5)
 done = True
 
 #############
