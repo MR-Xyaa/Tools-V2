@@ -16,8 +16,10 @@ white='\e[1;37m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 
-
-
+cd module
+python loading.py
+sleep3
+clear
 ###################################################
 # CTRL C
 ###################################################
@@ -34,20 +36,9 @@ echo -e $white"[#]> MR-Xyaa ... "
 read -p enter;
 exit
 }
-
-# Isi oc :*
-
-echo -e $red"  __________  ____  __   _____    _    _____"
-echo -e $red" /_  __/ __ \/ __ \/ /  / ___/   | |  / /__ "
-echo -e $red"  / / / / / / / / / /   \__ \    | | / /__/ /"
-echo -e $white" / / / /_/ / /_/ / /______/ /    | |/ // __/"
-echo -e $white"/_/  \____/\____/_____/____/     |___//____/"
-echo -e $green"                         By MR-Xyaa"
-echo ""
-sleep 1
-
-cd module
 python list.py
+
+
 read -p "[MR-Xyaa]> " act;
 
 
