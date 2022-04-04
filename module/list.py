@@ -21,7 +21,7 @@ def inu_ganteng_banget(s):
 
 
 user_reply = input("Namamu Bang\x1b[0m? \n")
-inu_ganteng_banget('\x1b[1;91m__________  ____  __   _____    _    _____')
+inu_ganteng_banget('\x1b[1;91m  __________  ____  __   _____    _    _____')
 inu_ganteng_banget('\x1b[1;91m /_  __/ __ \/ __ \/ /  / ___/   | |  / /__')
 inu_ganteng_banget('\x1b[1;91m  / / / / / / / / / /   \__ \    | | / /__/ /')
 inu_ganteng_banget('\x1b[1;97m / / / /_/ / /_/ / /______/ /    | |/ // __/')
