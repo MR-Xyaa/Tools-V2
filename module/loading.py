@@ -117,11 +117,7 @@ sayang_april =("""
 ##                  #      #                    ##
 ##                   #    #                     ##
 ##                    \x1b[1;93mIBNU                     \x1b[1;97m ##
-\x1b[1;92m╔═══════[  \x1b[1;91mMR-Xyaa \x1b[1;92m]═════════════════════════════╗
-\x1b[1;92m■  \x1b[1;93m[▪]   \x1b[1;94mAuthor : MR-Xyaa                        \x1b[1;92m■
-\x1b[1;92m■  \x1b[1;93m[▪]   \x1b[1;94mFacbook : Xyaa Xyaa                     \x1b[1;92m■
-\x1b[1;92m■  \x1b[1;93m[▪]   \x1b[1;94mGithub : https://github.com/MR-Xyaa     \x1b[1;92m■
-\x1b[1;92m╚═══════[   XXXXXX ]═════════════════════════════╝
+
 """)
 def april_cantik_banget():
         os.system('clear')
