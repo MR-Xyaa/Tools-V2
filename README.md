@@ -1,15 +1,12 @@
 # install
-```python
+```php
 pkg install bash
 pkg install git
 git clone https://github.com/MR-Xyaa/Tools-V2
 ```
 # run
-```bash
+```php
 cd Tools-V2
 git pull
 bash run.sh
-```
-```php
-Memek
 ```
