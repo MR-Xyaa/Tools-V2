@@ -19,8 +19,6 @@ def inu_ganteng_banget(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 
-
-user_reply = input("Namamu Bang\x1b[0m? \n")
 inu_ganteng_banget('\x1b[1;91m  __________  ____  __   _____    _    _____')
 inu_ganteng_banget('\x1b[1;91m /_  __/ __ \/ __ \/ /  / ___/   | |  / /__')
 inu_ganteng_banget('\x1b[1;91m  / / / / / / / / / /   \__ \    | | / /__/ /')
