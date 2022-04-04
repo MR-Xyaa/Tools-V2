@@ -20,7 +20,7 @@ def inu_ganteng_banget(s):
         time.sleep(random.random() * 0.1)
 
 
-user_reply = input("Namamu Bang? \x1b[1;96m")
+user_reply = input("Namamu Bang? \x1b[1;91m")
 
 inu_ganteng_banget('\x1b[1;96m1 Red Hawk')
 inu_ganteng_banget('\x1b[1;96m2 D-Tect')
@@ -44,5 +44,5 @@ inu_ganteng_banget('\x1b[1;96m19 SQLMap')
 inu_ganteng_banget('\x1b[1;96m20 Dirbuster')
 inu_ganteng_banget('\x1b[1;96m21 Pybelt')
 inu_ganteng_banget('\x1b[1;96m22 Exit')
-print("\x1b[1;95mBang\x1b[1;92m", user_reply)
+print("\x1b[1;92mBang\x1b[1;93m", user_reply)
 inu_ganteng_banget('\x1b[1;97mPilih Menunya Bang')
