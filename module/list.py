@@ -20,7 +20,7 @@ def inu_ganteng_banget(s):
         time.sleep(random.random() * 0.1)
 
 
-user_reply = input("Namamu Bang? \x1b[0m")
+user_reply = input("Namamu Bang? \x1b[1;96m")
 
 inu_ganteng_banget('\x1b[1;96m1 Red Hawk')
 inu_ganteng_banget('\x1b[1;96m2 D-Tect')
