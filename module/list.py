@@ -21,12 +21,6 @@ def inu_ganteng_banget(s):
 
 
 user_reply = input("Namamu Bang\x1b[0m? \n")
-inu_ganteng_banget('\x1b[1;91m  __________  ____  __   _____    _    _____')
-inu_ganteng_banget('\x1b[1;91m /_  __/ __ \/ __ \/ /  / ___/   | |  / /__')
-inu_ganteng_banget('\x1b[1;91m  / / / / / / / / / /   \__ \    | | / /__/ /')
-inu_ganteng_banget('\x1b[1;97m / / / /_/ / /_/ / /______/ /    | |/ // __/')
-inu_ganteng_banget('\x1b[1;97m/_/  \____/\____/_____/____/     |___//____/')
-inu_ganteng_banget('\x1b[1;94m                         By MR-Xyaa')
 
 inu_ganteng_banget('\x1b[1;96m1 Red Hawk')
 inu_ganteng_banget('\x1b[1;96m2 D-Tect')
