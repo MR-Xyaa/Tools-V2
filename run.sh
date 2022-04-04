@@ -18,7 +18,7 @@ yellow='\e[1;33m'
 
 cd module
 python loading.py
-sleep3
+sleep 3
 clear
 ###################################################
 # CTRL C
