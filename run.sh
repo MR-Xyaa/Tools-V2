@@ -36,6 +36,8 @@ echo -e $white"[#]> MR-Xyaa ... "
 read -p enter;
 exit
 }
+python crot.py
+python logo.py
 python list.py
 
 
